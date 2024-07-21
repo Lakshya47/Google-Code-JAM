@@ -1,4 +1,4 @@
-# Google-Code-JAM-2015
+# Google-Code-JAM
 
 Author: Lakshya Chaudhary
 
